@@ -1,0 +1,10 @@
+{
+    "require": {
+        "curl/curl": "^1.4",
+        "zendframework/zend-http": "^2.5",
+        "eden/template": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {"Bot\\": "src/"}
+    }
+}
